@@ -1,4 +1,4 @@
-# Psycho Clowns Gauntlet
+# Psycho Clown's Gauntlet
 
 ![](clown-cheerleaders.png)
 
